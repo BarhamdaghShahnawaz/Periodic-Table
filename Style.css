@@ -1,0 +1,240 @@
+h1 {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+tr td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.none-border {
+    border-style: none;
+}
+
+.blue {
+    background-color: rgb(104, 203, 207);
+    color: #000;
+}
+.blue:hover {
+    font-size: 25px;
+    background-color: rgb(104, 203, 207);
+    color: #000;
+    cursor:pointer;
+}
+
+.peach {
+    background-color: coral;
+    color: darkolivegreen;
+}
+.peach:hover {
+    font-size: 25px;
+    background-color: coral;
+    color: darkolivegreen;
+    cursor:pointer;
+}
+
+.purple {
+    background-color: rgb(181, 110, 247);
+    color: #000;
+}
+.purple:hover {
+    font-size: 25px;
+    background-color: rgb(181, 110, 247);
+    color: #000;
+    cursor:pointer;
+}
+
+.dark-blue {
+    background-color: rgb(181, 116, 242);
+    color: blue;
+}
+.dark-blue:hover {
+    font-size: 25px;
+    background-color: rgb(181, 116, 242);
+    color: blue;
+    cursor:pointer;
+}
+
+.yellow {
+    background-color: rgb(255, 255, 132);
+    color: #000;
+}
+.yellow:hover{
+    font-size: 25px;
+    background-color: rgb(255, 255, 132);
+    color: #000;
+    cursor:pointer;
+}
+
+.yellow-blue {
+    background-color: rgb(255, 255, 132);
+    color: blue;
+}
+.yellow-blue:hover {
+    font-size: 25px;
+    background-color: rgb(255, 255, 132);
+    color: blue;
+    cursor:pointer;
+}
+
+.yellow-purple {
+    background-color: rgb(255, 255, 132);
+    color: blue;
+}
+.yellow-purple:hover {
+    font-size: 25px;
+    background-color: rgb(255, 255, 132);
+    color: blue;
+    cursor:pointer;
+}
+
+.yellow-redish {
+    background-color: rgb(255, 255, 132);
+    color: rgb(167, 36, 36);
+}
+.yellow-redish:hover {
+    font-size: 25px;
+    background-color: rgb(255, 255, 132);
+    color: rgb(167, 36, 36);
+    cursor:pointer;
+}
+
+.pinkish {
+    background-color: rgb(249, 236, 236);
+    color: #000;
+}
+.pinkish:hover {
+    font-size: 25px;
+    background-color: rgb(249, 236, 236);
+    color: #000;
+    cursor:pointer;
+}
+
+.red-pinkish {
+    background-color: rgb(249, 236, 236);
+    color: rgb(242, 110, 110);
+}
+.red-pinkish:hover {
+    font-size: 25px;
+    background-color: rgb(249, 236, 236);
+    color: rgb(242, 110, 110);
+    cursor:pointer;
+}
+
+.light-green {
+    background-color: #d6f7a1;
+    color: #000;
+}
+.light-green:hover {
+    font-size: 25px;
+    background-color: #d6f7a1;
+    color: #000;
+    cursor:pointer;
+}
+
+.blue-green {
+    background-color: #d6f7a1;
+    color: blue;
+}
+.blue-green:hover {
+    font-size: 25px;
+    background-color: #d6f7a1;
+    color: blue;
+    cursor:pointer;
+}
+
+.coral-green {
+    background-color: coral;
+    color: green;
+}
+.coral-green:hover {
+    font-size: 25px;
+    background-color: coral;
+    color: green;
+    cursor:pointer; 
+}
+
+.black-green {
+    background-color: coral;
+    color: black;
+}
+.black-green:hover {
+    font-size: 25px;
+    background-color: coral;
+    color: black;
+    cursor:pointer;
+}
+
+.dark-yellow {
+    background-color: rgb(179, 122, 18);
+    color: #000;
+}
+.dark-yellow:hover {
+    font-size: 25px;
+    background-color: rgb(179, 122, 18);
+    color: #000;
+    cursor:pointer;
+}
+
+.blanchedamond-green {
+    background-color: rgb(241, 234, 172);
+    color: green;
+}
+.blanchedamond-green:hover {
+    font-size: 25px;
+    background-color: rgb(241, 234, 172);
+    color: green;
+    cursor:pointer;
+}
+
+.blanchedamond-blue {
+    background-color: rgb(241, 234, 172);
+    color: blue;
+}
+.blanchedamond-blue:hover {
+    font-size: 25px;
+    background-color: rgb(241, 234, 172);
+    color: blue;
+    cursor:pointer;
+}
+
+.blanchedamond-black {
+    background-color: rgb(241, 234, 172);
+    color: black;
+}
+.blanchedamond-black:hover {
+    font-size: 25px;
+    background-color: rgb(241, 234, 172);
+    color: rgb(0, 0, 0);
+    cursor:pointer;
+}
+
+.ivory-red {
+    background-color: ivory;
+    color: rgb(242, 110, 110);
+}
+.ivory-red:hover {
+    font-size: 25px;
+    background-color: ivory;
+    color: rgb(242, 110, 110);
+    cursor:pointer;
+}
+
+.cadet-green {
+    background-color: rgb(196, 213, 214);
+    color: green;
+}
+.cadet-green:hover {
+    font-size: 25px;
+    background-color: rgb(196, 213, 214);
+    color: green;
+    cursor:pointer;
+}
