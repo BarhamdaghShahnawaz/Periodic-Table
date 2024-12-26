@@ -1,17 +1,17 @@
 h1 {
     text-align: center;
-    background-color: yellow;
-    color: black;
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
 }
 
 table{
     display: flex;
     justify-content: center;
-    font-size: x-large;
+    font-size: 20px;
 }
 
 tr td {
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -31,13 +31,13 @@ tr td {
 }
 
 .peach {
-    background-color: coral;
-    color: darkolivegreen;
+    background-color: #ff7f50;
+    color: #556b2f;
 }
 .peach:hover {
     font-size: 25px;
     background-color: coral;
-    color: darkolivegreen;
+    color: #556b2f;
     cursor:pointer;
 }
 
@@ -54,12 +54,12 @@ tr td {
 
 .dark-blue {
     background-color: rgb(181, 116, 242);
-    color: blue;
+    color: #0000ff;
 }
 .dark-blue:hover {
     font-size: 25px;
     background-color: rgb(181, 116, 242);
-    color: blue;
+    color: #0000ff;
     cursor:pointer;
 }
 
@@ -76,23 +76,23 @@ tr td {
 
 .yellow-blue {
     background-color: rgb(255, 255, 132);
-    color: blue;
+    color: #0000ff;
 }
 .yellow-blue:hover {
     font-size: 25px;
     background-color: rgb(255, 255, 132);
-    color: blue;
+    color: #0000ff;
     cursor:pointer;
 }
 
 .yellow-purple {
     background-color: rgb(255, 255, 132);
-    color: blue;
+    color: #0000ff;
 }
 .yellow-purple:hover {
     font-size: 25px;
     background-color: rgb(255, 255, 132);
-    color: blue;
+    color: #0000ff;
     cursor:pointer;
 }
 
@@ -142,34 +142,34 @@ tr td {
 
 .blue-green {
     background-color: #d6f7a1;
-    color: blue;
+    color: #0000ff;
 }
 .blue-green:hover {
     font-size: 25px;
     background-color: #d6f7a1;
-    color: blue;
+    color: #0000ff;
     cursor:pointer;
 }
 
 .coral-green {
-    background-color: coral;
-    color: green;
+    background-color: #ff7f50;
+    color: #008000;
 }
 .coral-green:hover {
     font-size: 25px;
-    background-color: coral;
-    color: green;
+    background-color: #ff7f50;
+    color: #008000;
     cursor:pointer; 
 }
 
 .black-green {
-    background-color: coral;
-    color: black;
+    background-color: #ff7f50;
+    color: #000000;
 }
 .black-green:hover {
     font-size: 25px;
-    background-color: coral;
-    color: black;
+    background-color: #ff7f50;
+    color: #000000;
     cursor:pointer;
 }
 
@@ -186,12 +186,12 @@ tr td {
 
 .blanchedamond-green {
     background-color: rgb(241, 234, 172);
-    color: green;
+    color: #008000;
 }
 .blanchedamond-green:hover {
     font-size: 25px;
     background-color: rgb(241, 234, 172);
-    color: green;
+    color: #008000;
     cursor:pointer;
 }
 
@@ -202,13 +202,13 @@ tr td {
 .blanchedamond-blue:hover {
     font-size: 25px;
     background-color: rgb(241, 234, 172);
-    color: blue;
+    color: #0000ff;
     cursor:pointer;
 }
 
 .blanchedamond-black {
     background-color: rgb(241, 234, 172);
-    color: black;
+    color: #000000;
 }
 .blanchedamond-black:hover {
     font-size: 25px;
@@ -218,23 +218,23 @@ tr td {
 }
 
 .ivory-red {
-    background-color: ivory;
+    background-color: #fffff0;
     color: rgb(242, 110, 110);
 }
 .ivory-red:hover {
     font-size: 25px;
-    background-color: ivory;
+    background-color: #fffff0;
     color: rgb(242, 110, 110);
     cursor:pointer;
 }
 
 .cadet-green {
     background-color: rgb(196, 213, 214);
-    color: green;
+    color: #008000;
 }
 .cadet-green:hover {
     font-size: 25px;
     background-color: rgb(196, 213, 214);
-    color: green;
+    color: #008000;
     cursor:pointer;
 }
